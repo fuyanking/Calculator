@@ -1,5 +1,5 @@
 # Simple In‑fix Expression Calculator
-AP Computer Science Principles Create Performance Task Project
+A lightweight calculator implemented in Python for AP Computer Science Principles
 
 ## Project Overview
 This is a Python calculator program that evaluates standard infix mathematical expressions with `+`, `-`, `*`, `/` and parentheses `()`.
